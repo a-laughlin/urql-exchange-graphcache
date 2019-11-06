@@ -130,7 +130,7 @@
     "rollup-plugin-typescript2": "^0.25.2",
     "terser": "^4.3.9",
     "ts-jest": "^24.1.0",
-    "typescript": "^3.6.4",
+    "typescript": "^3.7.2",
     "urql": "^1.6.2"
   }
 }
